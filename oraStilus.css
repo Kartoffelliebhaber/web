@@ -1,0 +1,53 @@
+#kulso {
+  width: 200px;
+  height: 200px;
+  border: 3px solid blue;
+  border-radius: 50%;
+  position: relative;
+}
+
+#masodperc {
+  position: absolute;
+  width: 3px;
+  height: 85px;
+  border: 1px solid green;
+  left: 98px;
+  top: 12px;
+}
+
+#perc {
+  position: absolute;
+  width: 5px;
+  height: 80px;
+  border: 1px solid brown;
+  left: 97px;
+  top: 17px;
+}
+
+#ora {
+  position: absolute;
+  width: 7px;
+  height: 75px;
+  border: 1px solid red;
+  left: 96px;
+  top: 22px;
+}
+
+.percTarto {
+  position: absolute;
+  width: 5px;
+  height: 93px;
+  /* border: 1px solid brown; */
+  left: 97px;
+  top: 6px;
+}
+
+.percPotty {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  background-color: teal;
+  border-radius: 50%;
+  top: 0px;
+  left: -1px;
+}
